@@ -18,12 +18,6 @@ npm install
 
 Create `backend/.env`:
 ```env
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/bda_crm
-JWT_SECRET=your_super_secret_jwt_key_here
-JWT_EXPIRE=30d
-NODE_ENV=development
-```
 
 Seed demo data, then start:
 ```bash
